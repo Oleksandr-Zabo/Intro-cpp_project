@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+	cout << "second hm" << endl;
 	system("pause");
 	return 0;
 }
